@@ -43,9 +43,9 @@ Ce sprint est scindé en deux parties :
 * **Partie Admin (S3)** : développement de l’interface d’administration et des fonctionnalités de gestion
   
 * **Avancement** :
-Application mobile : terminée et validée
-Partie Web Public : en cours
-Partie Web Admin : planifiée après la période de vacances
+Application mobile : terminée et validée <br>
+Partie Web Public : en cours <br>
+Partie Web Admin : planifiée après la période de vacances <br>
 
 ---
 
