@@ -1,8 +1,8 @@
 # Planification du Projet Final
 
-**Titre du projet :** Projet de Fin de Formation - SoliQuiz
-**Date :** Avril 2026
-**Statut :** En cours
+**Titre du projet :** Projet de Fin de Formation - SoliQuiz <br>
+**Date :** Avril 2026 <br>
+**Statut :** En cours <br>
 
 ---
 
