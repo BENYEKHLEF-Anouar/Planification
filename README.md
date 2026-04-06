@@ -1,4 +1,4 @@
-# Planification du Projet Final
+# Planification du Projet de Fin de Formation
 
 **Titre du projet :** Projet de Fin de Formation - SoliQuiz <br>
 **Date :** Avril 2026 <br>
